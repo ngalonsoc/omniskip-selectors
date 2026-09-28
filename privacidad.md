@@ -4,7 +4,7 @@
 
 Última actualización: 28 de septiembre de 2026
 
-OmniSkip es una extensión para Chrome que salta intros y resúmenes, pasa al siguiente episodio y cierra el aviso «¿Seguís ahí?» en Netflix, Prime Video y HBO Max.
+OmniSkip es una extensión para Chrome que salta intros y resúmenes y pasa al siguiente episodio en Netflix, Prime Video y HBO Max. En Netflix, además, cierra el aviso «¿Seguís ahí?».
 
 ## Resumen
 
@@ -59,7 +59,7 @@ Consultas o dudas: abrí un *issue* en [github.com/ngalonsoc/omniskip-selectors/
 
 Last updated: September 28, 2026
 
-OmniSkip is a Chrome extension that skips intros and recaps, plays the next episode and dismisses the "Are you still watching?" prompt on Netflix, Prime Video and HBO Max.
+OmniSkip is a Chrome extension that skips intros and recaps, plays the next episode on Netflix, Prime Video and HBO Max, and on Netflix also dismisses the "Are you still watching?" prompt.
 
 ## Summary
 
